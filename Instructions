@@ -1,0 +1,17 @@
+# Install node JS:
+Goto -> https://nodejs.org/en/
+Install -> LTS(Long Term Support) version of node-JS
+
+# Install IONIC:
+In CMD/Terminal run this command
+Windows -> npm install -g ionic cordova
+MAC/Linux -> sudo npm install -g ionic cordova
+
+# Start:
+cd school
+ionic serve
+
+# Sublime TypeScript plugin
+Shift+Ctrl+P -> Install packages
+select -> TypeScript
+
